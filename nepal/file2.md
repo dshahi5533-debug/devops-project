@@ -1,2 +1,0 @@
-file2
-This is file2
